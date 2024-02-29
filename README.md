@@ -1,4 +1,6 @@
 # QR URL Short Parser
+
+## NPM package link: https://www.npmjs.com/package/qr-url-shortener-parser?activeTab=readme
  
 QR URL Short Parser is a versatile npm package that provides functionalities for generating QR codes, shortening URLs, and parsing URLs. It's a comprehensive tool designed to simplify the management of URLs in various applications.
 
